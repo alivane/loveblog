@@ -6148,19 +6148,16 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 @media (min-height: 40.125em) {
   .picker--time .picker__box {
     margin-bottom: 5em; } }
-.cuadro {
+.linea {
   width: 100%;
-  padding: 0;
-  height: 60px;
-  background-color: #CF8873;
-  margin-left: -11px; }
+  height: 17px;
+  margin-top: 31px; }
 
-.cuadro1 {
-  width: 100%;
-  padding: 0;
-  height: 60px;
-  background-color: #CF8873;
-  margin-left: 11px; }
+.imagen {
+  padding: 0px !important; }
+
+.alto {
+  height: 440px; }
 
 .more {
   background-color: #C45A22;
@@ -6172,9 +6169,11 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .dentro {
   border: 1px solid #B4B6BA; }
   .dentro h4 {
-    color: #C47E52; }
+    color: #C47E52;
+    margin-left: 15px; }
   .dentro h3 {
-    color: #B4B6BA; }
+    color: #B4B6BA;
+    margin-left: 15px; }
 
 img {
   width: 100%; }
@@ -6184,8 +6183,10 @@ header nav {
   header nav i {
     color: #CF5A33; }
 
-footer {
+footer .footer {
   background-color: #CF5A33;
+  color: white; }
+footer h2 {
   color: white; }
 
 nav h1 {
@@ -6209,6 +6210,6 @@ h4 {
   color: #919497; }
 
 h3 {
-  font-size: 1.7rem; }
+  font-size: 1.6rem; }
 
 /*# sourceMappingURL=style.css.map */
