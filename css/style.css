@@ -6182,6 +6182,8 @@ header nav {
   background-color: white; }
   header nav i {
     color: #CF5A33; }
+header .active {
+  color: #C65C17; }
 
 footer .footer {
   background-color: #CF5A33;
