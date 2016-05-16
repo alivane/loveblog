@@ -6191,6 +6191,35 @@ footer .footer {
 footer h2 {
   color: white; }
 
+.cuadro-nr {
+  background-color: #C65C17;
+  color: white;
+  padding: 17px; }
+
+.bordec {
+  border: 1px solid #C2C1C6;
+  padding: 5px; }
+
+.borc {
+  border: 2px solid #A14B15; }
+
+aside h4 {
+  color: #C85E1A; }
+
+.naranja {
+  width: 5px;
+  height: 180px;
+  float: right;
+  background-color: #C85E1A; }
+
+.pnr {
+  color: #C85E1A; }
+
+.linea1 {
+  width: 100%;
+  height: 17px;
+  margin-top: 18px; }
+
 nav h1 {
   font-family: 'Fjalla One', sans-serif;
   color: #CF5A33; }
