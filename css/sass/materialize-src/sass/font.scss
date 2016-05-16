@@ -1,0 +1,20 @@
+nav{
+	h1{
+	font-family: 'Fjalla One', sans-serif;
+	color:#CF5A33;
+	span{
+		color:#CF8873;
+		}
+	}
+	li a{
+		font-family: 'Fjalla One', sans-serif;
+		color:#949E99;
+		.active{
+			color:#CF5A33;
+		}
+	}
+}
+h2{
+	font-family: 'Fjalla One', sans-serif;
+	color:#CF5A33;
+}

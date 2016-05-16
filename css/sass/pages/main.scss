@@ -1,0 +1,36 @@
+@mixin cuadro($margen){
+		width:100%;
+		padding:0;
+		height: 60px;
+		background-color:#CF8873;
+		margin-left:$margen;
+	}
+.cuadro{
+		@include cuadro(-11px);
+	}
+.cuadro1{
+		@include cuadro(11px);
+	}
+.more{
+	background-color:#C45A22;
+	padding:10px;
+	color:white;
+	&:hover{
+		background-color:#C47E52;
+	}
+}
+img{
+	width:100%;
+}
+header{
+	nav{
+	background-color:white;
+		i{
+			color:#CF5A33;
+		}
+	}
+}
+footer{
+	background-color:#CF5A33;
+	color:white;
+}
