@@ -6169,6 +6169,13 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .more:hover {
     background-color: #C47E52; }
 
+.dentro {
+  border: 1px solid #B4B6BA; }
+  .dentro h4 {
+    color: #C47E52; }
+  .dentro h3 {
+    color: #B4B6BA; }
+
 img {
   width: 100%; }
 
@@ -6195,5 +6202,13 @@ nav li a {
 h2 {
   font-family: 'Fjalla One', sans-serif;
   color: #CF5A33; }
+
+h4 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 0.99rem;
+  color: #919497; }
+
+h3 {
+  font-size: 1.7rem; }
 
 /*# sourceMappingURL=style.css.map */
