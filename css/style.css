@@ -6193,6 +6193,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .cuadrosb:hover {
     background-color: #C89C76;
     color: black; }
+  .cuadrosb a {
+    color: white; }
 
 .linea {
   width: 100%;
