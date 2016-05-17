@@ -19,6 +19,7 @@
 }
 .dentro{
 	border:1px solid #B4B6BA;
+	margin:5px;
 	h4{
 		color:#C47E52;
 		margin-left:15px;
@@ -43,6 +44,10 @@ header{
 	}
 }
 footer{
+	.fondo4{
+		background-color:red;
+		height:100px;
+	}
 	.footer{
 	    background-color:#CF5A33;
 	    color:white;
