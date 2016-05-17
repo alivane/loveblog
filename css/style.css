@@ -6240,6 +6240,11 @@ aside h4 {
     color: white;
     padding: 5px; }
 
+.port img {
+  height: 150px; }
+.port .cuadro {
+  margin-bottom: 5px; }
+
 nav h1 {
   font-family: 'Fjalla One', sans-serif;
   color: #CF5A33; }
