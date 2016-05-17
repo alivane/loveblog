@@ -6231,6 +6231,15 @@ aside h4 {
   height: 17px;
   margin-top: 18px; }
 
+.all {
+  display: inline-block;
+  color: grey;
+  margin-top: 20px; }
+  .all:hover {
+    background-color: #C85E1A;
+    color: white;
+    padding: 5px; }
+
 nav h1 {
   font-family: 'Fjalla One', sans-serif;
   color: #CF5A33; }

@@ -1,0 +1,10 @@
+	.all{
+		display:inline-block;
+		color:grey;
+		margin-top:20px;
+		&:hover{
+			background-color:#C85E1A;
+			color:white;
+			padding:5px;
+		}
+	}
