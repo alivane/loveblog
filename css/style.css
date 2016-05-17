@@ -6181,7 +6181,6 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .cuadrosb {
   text-align: center;
-  color: white !important;
   width: 100%;
   color: #C85E1A;
   border: 2px solid #C85E1A;
@@ -6195,6 +6194,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     color: black; }
   .cuadrosb a {
     color: white; }
+
+.mapa {
+  margin-bottom: 20px; }
+
+.cuadro-nr h3 {
+  color: white; }
 
 .linea {
   width: 100%;

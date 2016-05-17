@@ -16,13 +16,20 @@
 }
 .cuadrosb{
 	text-align:center;
-	color:white!important;
 	@include cuadros(55px,100%,#C85E1A);
 	&:hover{
 	background-color:#C89C76;
 		color:black;
 	}
 	a{
+		color:white;
+	}
+}
+.mapa{
+	margin-bottom:20px;
+}
+.cuadro-nr{
+	h3{
 		color:white;
 	}
 }
