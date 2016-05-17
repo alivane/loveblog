@@ -6242,8 +6242,10 @@ aside h4 {
 
 .port img {
   height: 150px; }
-.port .cuadro {
+.port .dentro {
   margin-bottom: 5px; }
+.port h6 {
+  margin-left: 10px; }
 
 nav h1 {
   font-family: 'Fjalla One', sans-serif;
