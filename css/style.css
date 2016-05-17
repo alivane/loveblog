@@ -6159,6 +6159,15 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .blog h3 {
   color: #C85E1A; }
 
+.numero {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #9B402B;
+  background-color: #D85F20; }
+  .numero h4 {
+    color: white; }
+
 .cuadros {
   width: 80%;
   color: #C85E1A;
@@ -6174,7 +6183,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   color: #C85E1A;
   border: 2px solid #C85E1A;
   padding: 3px;
-  height: 100px;
+  height: 200px;
   background-color: white;
   margin-bottom: 20px;
   margin-top: 5px; }
