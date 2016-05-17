@@ -1,0 +1,25 @@
+@mixin cuadros($htg ,$wt,$bc){
+	width:$wt;
+	color:#C85E1A;
+	border:2px solid #C85E1A;
+	padding:3px;
+	height:$htg;
+	background-color:$bc;
+	margin-bottom:20px;
+	margin-top:5px;
+}
+.cuadros{
+	@include cuadros(55px,80%,white);
+}
+.cuadros1{
+	@include cuadros(100px,100%,white);
+}
+.cuadrosb{
+	text-align:center;
+	color:white!important;
+	@include cuadros(55px,100%,#C85E1A);
+	&:hover{
+		background-color:#C89C76;
+		color:black;
+	}
+}

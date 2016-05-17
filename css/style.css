@@ -6159,6 +6159,41 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .blog h3 {
   color: #C85E1A; }
 
+.cuadros {
+  width: 80%;
+  color: #C85E1A;
+  border: 2px solid #C85E1A;
+  padding: 3px;
+  height: 55px;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: 5px; }
+
+.cuadros1 {
+  width: 100%;
+  color: #C85E1A;
+  border: 2px solid #C85E1A;
+  padding: 3px;
+  height: 100px;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: 5px; }
+
+.cuadrosb {
+  text-align: center;
+  color: white !important;
+  width: 100%;
+  color: #C85E1A;
+  border: 2px solid #C85E1A;
+  padding: 3px;
+  height: 55px;
+  background-color: #C85E1A;
+  margin-bottom: 20px;
+  margin-top: 5px; }
+  .cuadrosb:hover {
+    background-color: #C89C76;
+    color: black; }
+
 .linea {
   width: 100%;
   height: 17px;
